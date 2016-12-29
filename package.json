@@ -1,0 +1,31 @@
+{
+  "name": "generator-swift3",
+  "version": "1.0.0",
+  "description": "Swift3 iOS projects generator",
+  "main": "app/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragospanoiu/swift3-generator"
+  },
+  "author": "Dragos Panoiu (http://panoiu.com)",
+  "scripts": {},
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "glob": "5.0.x",
+    "yeoman-generator": "^1.0.1",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/dragospanoiu/swift3-generator/issues"
+  },
+  "homepage": "https://github.com/dragospanoiu/swift3-generator",
+  "directories": {}
+}
